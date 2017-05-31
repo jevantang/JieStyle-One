@@ -2,7 +2,7 @@
 
 WordPress Themes
 
-![TangStyle](http://tangjie.me/media/themes/JieStyle-One.jpg)
+![TangStyle](https://tangjie.me/media/themes/JieStyle-One.jpg)
 
 ## 主题介绍
 * 商务领航，尽现成熟稳重的个人小站风格
@@ -19,10 +19,10 @@ WordPress Themes
 ## 版本信息
 * 主题名称：JieStyle One
 * 主题作者：唐杰
-* 作者博客：[http://tangjie.me](http://tangjie.me)
+* 作者博客：[https://tangjie.me](https://tangjie.me)
 * 首发时间：2014-08-03
-* 最新版本：V1.1
-* 最后更新：2017-03-01
+* 最新版本：V1.2
+* 最后更新：2017-05-31
 
 ## 主题配置
 * 1、配置JieStyle的设置（外观 -> 主题 -> JieStyle设置）
@@ -35,5 +35,5 @@ WordPress Themes
 * 本主题可以自由分享传播，但请署名及注明出处。
 * 本主题免费下载，不限个人或商业使用，但请使用中保留作者版权。
 * 如果愿意，请给作者博客一个友情链接，谢谢。
-    *  链接名称： [产品经理](http://tangjie.me)
-    *  链接地址： [http://tangjie.me](http://tangjie.me)
+    *  链接名称： [产品经理](https://tangjie.me)
+    *  链接地址： [https://tangjie.me](https://tangjie.me)

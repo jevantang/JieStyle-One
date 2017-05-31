@@ -60,7 +60,7 @@
   <div class="ads_bottom"><?php echo stripslashes(get_option('tang_ads_bottom')); ?></div>
   <div id="footer">
     <p>&copy; <?php echo get_option('tang_years'); ?> <b><?php bloginfo('name'); ?></b>.</p>
-    <p>Powered by <b>WordPress</b>. Theme by <a href="http://tangjie.me/jiestyle" title="JieStyle" target="_blank"><b>JieStyle One</b></a> | <?php echo get_option( 'zh_cn_l10n_icp_num' );?></p>
+    <p>Powered by <b>WordPress</b>. Theme by <a href="https://tangjie.me/jiestyle" title="JieStyle" target="_blank"><b>JieStyle One</b></a> | <?php echo get_option( 'zh_cn_l10n_icp_num' );?></p>
   </div>
 </div>
 <?php get_footer(); ?>
