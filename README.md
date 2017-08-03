@@ -20,8 +20,9 @@ WordPress Themes
 * 主题名称：JieStyle One
 * 主题作者：唐杰
 * 作者博客：[https://tangjie.me](https://tangjie.me)
+* 开源协议：GNU General Public License v3.0
 * 首发时间：2014-08-03
-* 最新版本：V1.2
+* 最新版本：v1.2
 * 最后更新：2017-05-31
 
 ## 主题配置
