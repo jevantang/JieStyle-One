@@ -38,7 +38,7 @@
   </div>
   <div class="sidebox">
     <div class="search">
-      <form id="searchform" class="searchform" method="get" action="<?php bloginfo('home'); ?>">
+      <form id="searchform" class="searchform" method="get" action="<?php bloginfo('siteurl'); ?>">
         <input type="text" id="s" name="s" value="输入并回车" onfocus="this.value=''" onblur="this.value='输入并回车'"/>
       </form>
     </div>
