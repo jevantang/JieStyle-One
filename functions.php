@@ -8,6 +8,7 @@ add_filter( 'wp_page_menu_args', 'tangstyle_page_menu_args' );
 if ( ! function_exists( 'tangstyle_content_nav' ) ) :
 
 register_nav_menus(array('header-menu' => __( 'JieStyle导航菜单' ),));
+
 add_theme_support( 'post-thumbnails' );
 set_post_thumbnail_size( 200, 150 );
 
@@ -169,12 +170,6 @@ return $return;
 }
 add_filter('get_comment_author_link', 'remove_comment_links');
 remove_filter('comment_text', 'make_clickable', 9);
-
-//移除WordPress版本号
-function wpbeginner_remove_version() {
-return '';
-}
-add_filter('the_generator', 'wpbeginner_remove_version');
 
 // 评论回应邮件通知
 function comment_mail_notify($comment_id) {
