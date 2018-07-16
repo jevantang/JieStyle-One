@@ -22,8 +22,8 @@ WordPress Themes
 * 作者博客：[https://tangjie.me](https://tangjie.me)
 * 开源协议：GNU General Public License v3.0
 * 首发时间：2014-08-03
-* 最新版本：v1.2
-* 最后更新：2017-05-31
+* 最新版本：v1.3
+* 最后更新：2018-07-16
 
 ## 主题配置
 * 1、配置JieStyle的设置（外观 -> 主题 -> JieStyle设置）
